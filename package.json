@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/arjunkomath/node-freshdesk-api"
+    "url": "https://github.com/rashinp/node-freshdesk-api"
   },
   "author": "Arjun Komath <arjunkomath@gmail.com>",
   "license": "MIT"
